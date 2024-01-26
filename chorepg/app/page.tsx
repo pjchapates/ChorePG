@@ -8,7 +8,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 /* Fonts */
-import { lusitana } from '@/app/ui/fonts.ts';
+import { lusitana } from '@/app/ui/fonts';
 
 export default function Page() {
   return (
